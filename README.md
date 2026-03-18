@@ -22,7 +22,7 @@ A robust web application designed to facilitate a QR-code-based debugging compet
 ## 🏗 Developer & Technical Overview
 
 ### 👤 About the Developer
-**[Your Name]** *Full-Stack Developer & Technical Lead* Driven by a passion for creating interactive educational tools, I developed this platform to bridge the gap between physical events and digital competitive programming. 
+**Sivaraj T B.Tech IT** *Full-Stack Developer & Technical Lead* Driven by a passion for creating interactive educational tools, I developed this platform to bridge the gap between physical events and digital competitive programming. 
 
 * **Portfolio:** sivaraj-portfolio.onrender.com/ 
 * **GitHub:** https://github.com/Sivaraj-T-hash
